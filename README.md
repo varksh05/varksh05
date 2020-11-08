@@ -10,7 +10,7 @@
 <details>
   <summary> Recently completed Projects</summary>
 <!--START_SECTION:activity-->
-1. [My Resume(CV) Website](https://github.com/varksh05/valliyappan-portfolio)
+<!-- 1. [My Resume(CV) Website](https://github.com/varksh05/valliyappan-portfolio) -->
 
 2. [TechUtsav7.0 (SRM College Event Site created using Angular, Firebase)](https://github.com/varksh05/techutsav)
 
@@ -23,7 +23,7 @@
 <details>
   <summary> UnderGoing Projects</summary>
 <!--START_SECTION:activity-->
-1. [UniMan (A Platform for Students to Manage Placements and check Attendence, Test Performance, etc..)](https://github.com/varksh05/UniMan)
+<!-- 1. [UniMan (A Platform for Students to Manage Placements and check Attendence, Test Performance, etc..)](https://github.com/varksh05/UniMan) -->
 
 2. [MpWeb (Photography Website)](https://github.com/varksh05/mpWeb)
 <!--END_SECTION:activity-->
