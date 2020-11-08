@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Valliyappan 👋
 
-<!--
-**varksh05/varksh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student, Developer, Designer.
 
-Here are some ideas to get you started:
+- I’m a MCA Student at SRM IST - KTR Campus
+- I’m currently working on [UniMan (A Project For Students)]!
+- I’m currently learning SwiftUI & Angular
+- 2020 Goals: Contribute more to Open Source projects
+- Hobbies : Photography / Writing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[twitter]: https://twitter.com/iamValliyappan
+[facebook]: https://www.facebook.com/valliyappan05
+[instagram]: https://www.instagram.com/valliyappan_05/
+[linkedin]: https://www.linkedin.com/in/valliyappan-s-542428a2/
